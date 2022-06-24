@@ -1,0 +1,2 @@
+﻿  WINDOW_SOCKET.cpp
+LINK : fatal error LNK1104: cannot open file 'E:\Training\WINDOW_SOCKET\Debug\WINDOW_SOCKET.exe'

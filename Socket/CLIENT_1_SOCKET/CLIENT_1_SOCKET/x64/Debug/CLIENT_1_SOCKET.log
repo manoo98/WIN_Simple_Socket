@@ -1,0 +1,3 @@
+﻿  CLIENT_1_SOCKET.cpp
+E:\Manokamna\ipc\CLIENT_1_SOCKET\CLIENT_1_SOCKET\CLIENT_1_SOCKET.cpp(13,9): warning C4101: 'receive_message_size': unreferenced local variable
+  CLIENT_1_SOCKET.vcxproj -> E:\Manokamna\ipc\CLIENT_1_SOCKET\x64\Debug\CLIENT_1_SOCKET.exe
